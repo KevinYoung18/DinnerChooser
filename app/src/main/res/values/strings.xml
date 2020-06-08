@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DinnerChooser</string>
+    <string name="dinner_choice">What Should I Eat?</string>
+</resources>
